@@ -62,7 +62,7 @@ passwords:
 ###############################################################################
 # System related
 system:
-  release: stretch
+  release: buster
   login: true
   ssl: letsencrypt
   devel: false
